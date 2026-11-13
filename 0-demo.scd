@@ -1,3 +1,48 @@
+// WELCOME TO THIS LIVE CODING WORKSHOP!
+// 1. Presentations
+// 2. About the day.
+//    • What should we do? And how should we do it?
+//      - Install some necessary stuff (SuperCollider, SC3Plugins, SLiCE, and example files).
+//      - The structure of SuperCollider and the basics of programming, running code, etc.
+//      - Live Coding with SuperColliders pattern library.
+//      - Live Coding in the SLiCE environment.
+// 3. A short Demo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 l = SLiCE("/Users/mattpete/Dropbox/work/akademia/TEKNO-liveCodingWorkshop/liveCodingWorkshop/liveCodingSounds/");
 
 (

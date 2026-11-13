@@ -22,6 +22,27 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // 2. WHAT IS PROGRAMMING?
 // - The practice usually involves writing code.
 // - This code follows a specific syntax (grammar) depending on the language.
@@ -33,6 +54,27 @@
 // - A special program called the Interpreter converts each line into binary form and executes it on the cpu.
 // - This is what makes live coding possible!
 // -------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -69,6 +111,12 @@
 3 * 7;
 )
 // -------------------------------------------------------------------
+
+
+
+
+
+
 
 
 
@@ -125,10 +173,6 @@ numC = numA + numB;
 
 
 
-
-
-
-
 // 5. FIRST SOUNDS ----------------------------------------------------
 // To create a sound in SC you need to do 3 things:
 
@@ -171,6 +215,8 @@ SynthDef.new(\firstSynth, {
 
 
 
+
+
 // 5.3. Create a Synth. With this class you can play on the SynthDef.
 x = Synth.new(\firstSynth); // start the synth named \firstSynth. Store it in variable x.
 // It should make a noise in the left channel only.
@@ -198,6 +244,16 @@ y = Synth(\secondSynth);
 x.free;
 y.free;
 // -------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
 
 
 
