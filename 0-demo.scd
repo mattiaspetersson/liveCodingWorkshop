@@ -1,4 +1,4 @@
-// WELCOME TO THIS LIVE CODING WORKSHOP!
+// WELCOME TO THE LIVE CODING WORKSHOP!
 // 1. Presentations
 // 2. About the day.
 //    • What should we do? And how should we do it?
