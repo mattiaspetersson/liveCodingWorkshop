@@ -1,11 +1,13 @@
-// 1. DOWNLOAD INSTALLERS --------------------------------------------
+// 1. DOWNLOAD INSTALLERS AND EXAMPLE FILES --------------------------
 
 // Go here: https://supercollider.github.io/downloads
 // Download the following:
 // • SuperCollider (select the latest version for your system, by clicking on the corresponding tab).
 // • SC3Plugins on the same page.
 
-// Now go here: https://github.com/mattiaspetersson/slice
+// Now go here: https://github.com/mattiaspetersson/liveCodingWorkshop
+// Click the green button, labelled '<>Code', and select Download ZIP.
+// And: https://github.com/mattiaspetersson/slice
 // Click the green button, labelled '<>Code', and select Download ZIP.
 
 // Install SuperCollider! (leave the other files for now)
